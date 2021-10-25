@@ -1,1 +1,1 @@
-# self-organized-feature-map-SOFM-
+# self-organized feature map (SOFM)
